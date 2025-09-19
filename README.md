@@ -7,7 +7,7 @@ A program that uses Spotify API to get album details from the entered link and g
 ## How to Run
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/Posterify.git
+git clone https://github.com/your-username/Posterify.git<br>
 cd Posterify
 
 ### 2. Create and Activate Virtual Environment
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ### 4. Set your API Keys
 create a .env file in the root directory:<br>
-SPOTIFY_CLIENT_ID=your_spotify_client_id
+SPOTIFY_CLIENT_ID=your_spotify_client_id<br>
 SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
 
 ### 5. Run the Program
